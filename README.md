@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Data Protection
 
-You can use the [editor on GitHub](https://github.com/dasbiswajit/nextcloud/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Android app "Nextcloud Bookmark" (hereinafter referred to as "app") does not collect or send any data about you or your device to a server of Anywhere.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The app sends all data to the server you have configured yourself with the intention of synchronizing the content of the app with that of the server. This data can contain IP addresses, times and other information as meta data.
 
-### Markdown
+It is important for you that all content of the app is also transmitted, which, depending on the use, may also contain personal information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dasbiswajit/nextcloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+However, the servers you have configured are technically outside the access area of ​​NextCloud Bookmarks/Biswajit services, so that we can neither know nor prevent what happens to your data there. Please consult the data protection declaration of the respective server operator.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Queries? Check out our [project page](https://gitlab.com/bisada/OCBookmarks)we’ll help you sort it out.
